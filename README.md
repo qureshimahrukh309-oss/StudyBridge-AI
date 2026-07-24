@@ -2,11 +2,15 @@
 
 ## Project Overview
 
-StudyBridge-AI is an AI-powered study assistant that helps students manage notes, create personalized study plans, and ask AI questions from uploaded notes. It improves learning efficiency through intelligent assistance.
+StudyBridge-AI is an AI-powered study assistant that helps students organize notes, create personalized study plans, and ask AI questions from uploaded notes. It improves learning efficiency through intelligent assistance.
+
+---
 
 ## Problem Solved
 
-Many students struggle to organize their study schedule, manage notes, and prepare effectively for exams. StudyBridge-AI solves this problem by providing AI-powered study planning and intelligent note assistance for students.
+Many students struggle to organize their study schedule, manage notes, and prepare effectively for exams. StudyBridge-AI solves this problem by providing AI-powered study planning and intelligent note assistance.
+
+---
 
 ## Features
 
@@ -17,16 +21,17 @@ Many students struggle to organize their study schedule, manage notes, and prepa
 - Responsive Mobile-Friendly Interface
 - Course and Task Management Dashboard
 
+---
+
 ## AI Feature
 
 The application uses the Gemini API to generate personalized study plans and answer questions based on uploaded notes.
 
 ### System Prompt
 
-You are an AI Study Assistant.
-Generate personalized study plans based on the student's target date, available study time, and learning goals.
-Answer questions clearly and accurately using the uploaded notes whenever possible.
-Provide helpful and student-friendly responses.
+You are an AI Study Assistant. Generate personalized study plans based on the student's target date, available study time, and learning goals. Answer questions clearly and accurately using uploaded notes whenever possible. Provide helpful, student-friendly responses.
+
+---
 
 ## Technologies Used
 
@@ -39,35 +44,59 @@ Provide helpful and student-friendly responses.
 - CSS
 - Firebase
 
+---
+
 ## Live Demo
 
 https://studybridge-ai-980549585675.us-west1.run.app
+
+---
 
 ## GitHub Repository
 
 https://github.com/qureshimahrukh309-oss/StudyBridge-AI
 
+---
+
 ## Screenshots
 
 ### Home Dashboard
 
-(Add Home Dashboard Screenshot)
+![Home Dashboard](images/home-dashboard.jpg)
 
 ### AI Study Planner
 
-(Add AI Study Planner Screenshot)
+![AI Study Planner](images/study-planner.jpg)
 
 ### AI Notes Assistant
 
-(Add AI Notes Assistant Screenshot)
+![AI Notes Assistant](images/notes-assistant.jpg)
+
+---
 
 ## How to Run
 
-1. Clone the repository.
-2. Install dependencies.
-3. Add your Gemini API Key in the environment variables (.env).
-4. Run the application.
-5. Open the local development server.
+1. Clone the repository:
+
+```bash
+git clone https://github.com/qureshimahrukh309-oss/StudyBridge-AI.git
+```
+
+2. Open the project folder.
+
+3. Install all required dependencies.
+
+4. Add your Gemini API Key in the `.env` file.
+
+5. Start the development server.
+
+6. Open the application in your browser.
+
+Or simply use the Live Demo:
+
+https://studybridge-ai-980549585675.us-west1.run.app
+
+---
 
 ## Author
 
