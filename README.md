@@ -92,7 +92,6 @@ https://github.com/qureshimahrukh309-oss/StudyBridge-AI
 Works on:
 
 - Mobile
-- Tablet
 - Desktop
 
 ---
