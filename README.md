@@ -293,8 +293,8 @@ StudyBridge-AI
 
 **Name:** GitHub: qureshimahrukh309-oss
 
-**GitHub:** https://github.com/YOUR-USERNAME
-
+**GitHub:** 
+https://github.com/qureshimahrukh309-oss/StudyBridge-AI
 ---
 
 # 📄 License
