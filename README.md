@@ -172,25 +172,24 @@ Always encourage productive learning and provide practical study advice.
 
 ## 🏠 Home Page
 
-♥️
-
+![Home Page](Screenshot_20260725-010030.jpg)
 ---
 
 ## 📅 AI Study Planner
 
-(♥️)
 
+![AI Study Planner](Screenshot_20260725-011823.jpg)
 ---
 
 ## 📚 AI Notes Assistant
 
-(❤️)
+![AI Notes Assistant](Screenshot_20260725-011859.jpg)
 
 ---
 
 ## 📱 Mobile View
 
-(♥️)
+![Mobile View](Screenshot_20260725-012822.jpg)
 
 ---
 
