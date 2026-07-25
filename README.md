@@ -248,7 +248,7 @@ http://localhost:5173
 
 Or simply use the deployed application:
 
-https://YOUR-LIVE-URL-HERE
+https://studybridge-ai-980549585675.us-west1.run.app
 
 ---
 
