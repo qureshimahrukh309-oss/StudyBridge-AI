@@ -1,103 +1,304 @@
-# StudyBridge-AI
 
-## Project Overview
+# 📚 StudyBridge-AI
 
-StudyBridge-AI is an AI-powered study assistant that helps students organize notes, create personalized study plans, and ask AI questions from uploaded notes. It improves learning efficiency through intelligent assistance.
+## 📖 Project Overview
 
----
+StudyBridge-AI is an AI-powered study assistant designed to help students manage their studies more efficiently. It allows users to organize study tasks, upload notes, generate personalized study plans using Artificial Intelligence, and ask AI questions based on their uploaded notes.
 
-## Problem Solved
-
-Many students struggle to organize their study schedule, manage notes, and prepare effectively for exams. StudyBridge-AI solves this problem by providing AI-powered study planning and intelligent note assistance.
+The application is built to reduce study stress, improve time management, and help students prepare for exams in a smarter way.
 
 ---
 
-## Features
+# 🎯 Problem Statement
 
-- AI-powered Study Planner
-- AI Q&A for uploaded notes
-- PDF Notes Support
-- Guest Mode Access
-- Responsive Mobile-Friendly Interface
-- Course and Task Management Dashboard
+Many students struggle with:
+
+- Managing study schedules
+- Organizing notes
+- Preparing for exams efficiently
+- Finding quick answers from study material
+
+StudyBridge-AI solves these problems by combining study management with AI-powered assistance in one simple application.
+
+**Target Users**
+
+- College Students
+- University Students
+- Self Learners
+- Exam Preparation Students
 
 ---
 
-## AI Feature
+# 🌐 Live Application
 
-The application uses the Gemini API to generate personalized study plans and answer questions based on uploaded notes.
+**Live URL**
 
-### System Prompt
-
-You are an AI Study Assistant. Generate personalized study plans based on the student's target date, available study time, and learning goals. Answer questions clearly and accurately using uploaded notes whenever possible. Provide helpful, student-friendly responses.
+https://YOUR-LIVE-URL-HERE
 
 ---
 
-## Technologies Used
+# 💻 GitHub Repository
+
+https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+
+---
+
+# ✨ Features
+
+## 📝 AI Study Planner
+
+- Generates personalized study plans.
+- Creates schedules based on:
+  - Target exam date
+  - Available study hours
+  - Learning goals
+
+---
+
+## 🤖 AI Notes Assistant
+
+- Upload PDF study notes.
+- Ask questions from uploaded notes.
+- Receive AI-generated answers.
+
+---
+
+## 📄 PDF Notes Support
+
+- Upload study material.
+- Store notes securely.
+- Use uploaded notes with AI.
+
+---
+
+## 👤 Guest Mode
+
+- Users can use the application without creating an account.
+- Makes testing and quick access easier.
+
+---
+
+## 📊 Dashboard
+
+- View study tasks
+- Organize learning progress
+- Manage courses
+
+---
+
+## 📱 Responsive Design
+
+Works on:
+
+- Mobile
+- Tablet
+- Desktop
+
+---
+
+# 🤖 AI Feature
+
+StudyBridge-AI uses Google's Gemini AI to assist students with study planning and intelligent question answering.
+
+### AI Model
+
+- Gemini 2.5 Flash
+
+### AI Provider
+
+- Google AI Studio
+
+### What the AI Does
+
+- Creates personalized study plans
+- Answers questions
+- Explains concepts
+- Uses uploaded notes whenever possible
+- Gives clear student-friendly responses
+
+---
+
+# 🧠 System Prompt
+
+```text
+You are an AI Study Assistant.
+
+Your role is to help students study more effectively.
+
+Generate personalized study plans based on:
+
+• Target exam date
+• Daily available study hours
+• Student learning goals
+
+When answering questions:
+
+• Use uploaded notes whenever possible.
+• Explain concepts clearly.
+• Keep responses simple and student-friendly.
+• If information is unavailable in the notes, provide the best general explanation and mention that it was not found in the uploaded material.
+
+Always encourage productive learning and provide practical study advice.
+```
+
+---
+
+# 🛠 Technologies Used
+
+### Frontend
+
+- React
+- TypeScript
+- HTML5
+- CSS3
+
+### Backend
+
+- Firebase
+
+### AI Services
 
 - Google AI Studio
 - Gemini API
 - Gemini 2.5 Flash
-- React
-- TypeScript
-- HTML
-- CSS
-- Firebase
+
+### Deployment
+
+- Google Cloud Run (or Vercel if applicable)
 
 ---
 
-## Live Demo
+# 📸 Screenshots
 
-https://studybridge-ai-980549585675.us-west1.run.app
+## 🏠 Home Page
 
----
-
-## GitHub Repository
-
-https://github.com/qureshimahrukh309-oss/StudyBridge-AI
+(Add Screenshot Here)
 
 ---
 
-## Screenshots
+## 📅 AI Study Planner
 
-### Home Dashboard
-
-![Home Dashboard](images/home-dashboard.jpg)
-
-### AI Study Planner
-
-![AI Study Planner](images/study-planner.jpg)
-
-### AI Notes Assistant
-
-![AI Notes Assistant](images/notes-assistant.jpg)
+(Add Screenshot Here)
 
 ---
 
-## How to Run
+## 📚 AI Notes Assistant
 
-1. Clone the repository:
+(Add Screenshot Here)
+
+---
+
+## 📱 Mobile View
+
+(Optional Screenshot)
+
+---
+
+# 🚀 How to Run the Project
+
+### Step 1
+
+Clone the repository
 
 ```bash
-git clone https://github.com/qureshimahrukh309-oss/StudyBridge-AI.git
+git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
 ```
 
-2. Open the project folder.
+### Step 2
 
-3. Install all required dependencies.
+Open the project folder
 
-4. Add your Gemini API Key in the `.env` file.
+```bash
+cd StudyBridge-AI
+```
 
-5. Start the development server.
+### Step 3
 
-6. Open the application in your browser.
+Install dependencies
 
-Or simply use the Live Demo:
+```bash
+npm install
+```
 
-https://studybridge-ai-980549585675.us-west1.run.app
+### Step 4
+
+Create a `.env` file
+
+Add your Gemini API Key
+
+```env
+GEMINI_API_KEY=YOUR_API_KEY
+```
+
+### Step 5
+
+Run the project
+
+```bash
+npm run dev
+```
+
+### Step 6
+
+Open your browser
+
+```
+http://localhost:5173
+```
+
+Or simply use the deployed application:
+
+https://YOUR-LIVE-URL-HERE
 
 ---
 
-## Author
+# 📂 Project Structure
 
-GitHub: qureshimahrukh309-oss
+```
+StudyBridge-AI
+│
+├── src
+├── public
+├── components
+├── pages
+├── images
+├── firebase
+├── package.json
+├── README.md
+└── .env
+```
+
+---
+
+# 🔒 Security
+
+- API Keys are stored using environment variables.
+- No secrets are committed to GitHub.
+- Firebase Authentication is used securely.
+
+---
+
+# 🚀 Future Improvements
+
+- Dark Mode
+- Multiple Language Support
+- AI Quiz Generator
+- Flashcards
+- Progress Analytics
+- Calendar Integration
+
+---
+
+# 👨‍💻 Author
+
+**Name:** GitHub: qureshimahrukh309-oss
+
+**GitHub:** https://github.com/YOUR-USERNAME
+
+---
+
+# 📄 License
+
+This project is created for educational purposes as part of an AI-powered application assignment.
+---
+
