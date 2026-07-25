@@ -201,8 +201,8 @@ Always encourage productive learning and provide practical study advice.
 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
-```
+
+```https://github.com/qureshimahrukh309-oss/StudyBridge-AI
 
 ### Step 2
 
