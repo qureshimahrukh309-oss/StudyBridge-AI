@@ -33,13 +33,14 @@ StudyBridge-AI solves these problems by combining study management with AI-power
 
 **Live URL**
 
-https://YOUR-LIVE-URL-HERE
+https://studybridge-ai-980549585675.us-west1.run.app
+
 
 ---
 
 # 💻 GitHub Repository
 
-https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+https://github.com/qureshimahrukh309-oss/StudyBridge-AI
 
 ---
 
